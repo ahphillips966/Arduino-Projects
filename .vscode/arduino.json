@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "BME_OLED_page_change_interrupt_test_Cobey_edit\\BME_OLED_page_change_interrupt_test_Cobey_edit.ino"
+}
